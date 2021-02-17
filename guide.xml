@@ -1,0 +1,1619 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="GLOBO RJ  FHD">
+    <display-name lang="pt">GLOBO RJ  FHD</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="GLOBO RJ HD">
+    <display-name lang="pt">GLOBO RJ HD</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="GLOBO RJ [alter]">
+    <display-name lang="pt">GLOBO RJ [alter]</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="GLOBO SP FHD">
+    <display-name lang="pt">GLOBO SP FHD</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="GLOBO SP HD">
+    <display-name lang="pt">GLOBO SP HD</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="GLOBO SP [alter]">
+    <display-name lang="pt">GLOBO SP [alter]</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="GLOBO PB FHD">
+    <display-name lang="pt">GLOBO PB FHD</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="GLOBO PB HD">
+    <display-name lang="pt">GLOBO PB HD</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="GLOBO MG FHD">
+    <display-name lang="pt">GLOBO MG FHD</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="GLOBO MG HD">
+    <display-name lang="pt">GLOBO MG HD</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="GLOBO NORDESTE FHD">
+    <display-name lang="pt">GLOBO NORDESTE FHD</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="GLOBO NORDESTE HD">
+    <display-name lang="pt">GLOBO NORDESTE HD</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="BAND FHD">
+    <display-name lang="pt">BAND FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BAND SP HD">
+    <display-name lang="pt">BAND SP HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BAND RJ HD">
+    <display-name lang="pt">BAND RJ HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BAND RBA TV HD">
+    <display-name lang="pt">BAND RBA TV HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RECORD TV FHD ">
+    <display-name lang="pt">RECORD TV FHD </display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RECORD TV HD">
+    <display-name lang="pt">RECORD TV HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RECORD RJ HD">
+    <display-name lang="pt">RECORD RJ HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="REDE TV HD">
+    <display-name lang="pt">REDE TV HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV ARAPUAN HD">
+    <display-name lang="pt">TV ARAPUAN HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT FHD">
+    <display-name lang="pt">SBT FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT HD">
+    <display-name lang="pt">SBT HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT RJ HD">
+    <display-name lang="pt">SBT RJ HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BAND NEWS HD">
+    <display-name lang="pt">BAND NEWS HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO NEWS HD">
+    <display-name lang="pt">GLOBO NEWS HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RECORD NEWS HD">
+    <display-name lang="pt">RECORD NEWS HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CNN BRASIL HD">
+    <display-name lang="pt">CNN BRASIL HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BAND SPORTS FHD">
+    <display-name lang="pt">BAND SPORTS FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BAND SPORTS HD 1">
+    <display-name lang="pt">BAND SPORTS HD 1</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BAND SPORTS HD 2">
+    <display-name lang="pt">BAND SPORTS HD 2</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="COMBATE FHD">
+    <display-name lang="pt">COMBATE FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="COMBATE HD">
+    <display-name lang="pt">COMBATE HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPORTE INTERATIVO HD">
+    <display-name lang="pt">ESPORTE INTERATIVO HD</display-name>
+    <icon src="../canais/1582628054.gif|../canais/cultura.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPORTE INTERATIVO SD">
+    <display-name lang="pt">ESPORTE INTERATIVO SD</display-name>
+    <icon src="../canais/redeseculo21.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN FHD">
+    <display-name lang="pt">ESPN FHD</display-name>
+    <icon src="../canais/nhkworld.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN HD">
+    <display-name lang="pt">ESPN HD</display-name>
+    <icon src="../canais/comedycentral.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN 2 FHD">
+    <display-name lang="pt">ESPN 2 FHD</display-name>
+    <icon src="../canais/1611053318.gif|../canais/cbs.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN 2 HD">
+    <display-name lang="pt">ESPN 2 HD</display-name>
+    <icon src="../canais/band-maceio.gif|../canais/band.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN BRASIL FHD">
+    <display-name lang="pt">ESPN BRASIL FHD</display-name>
+    <icon src="../canais/tvagape.gif|../canais/redesuper.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN BRASIL HD">
+    <display-name lang="pt">ESPN BRASIL HD</display-name>
+    <icon src="../canais/1589152780.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN EXTRA FHD">
+    <display-name lang="pt">ESPN EXTRA FHD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN EXTRA HD">
+    <display-name lang="pt">ESPN EXTRA HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FOX SPORTS FHD">
+    <display-name lang="pt">FOX SPORTS FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX SPORTS HD">
+    <display-name lang="pt">FOX SPORTS HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX SPORTS 2 FHD">
+    <display-name lang="pt">FOX SPORTS 2 FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX SPORTS 2 HD">
+    <display-name lang="pt">FOX SPORTS 2 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORT TV FHD">
+    <display-name lang="pt">SPORT TV FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORT TV HD">
+    <display-name lang="pt">SPORT TV HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORT TV 2 FHD">
+    <display-name lang="pt">SPORT TV 2 FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORT TV 2 HD">
+    <display-name lang="pt">SPORT TV 2 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORT TV 3 FHD">
+    <display-name lang="pt">SPORT TV 3 FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORT TV 3 HD">
+    <display-name lang="pt">SPORT TV 3 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="PREMIERE CLUBES FHD">
+    <display-name lang="pt">PREMIERE CLUBES FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="PREMIERE CLUBES HD">
+    <display-name lang="pt">PREMIERE CLUBES HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="A&amp;E FHD">
+    <display-name lang="pt">A&amp;E FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="A&amp;E HD">
+    <display-name lang="pt">A&amp;E HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AXN HD (leg)">
+    <display-name lang="pt">AXN HD (leg)</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CANAL SONY HD">
+    <display-name lang="pt">CANAL SONY HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CINEMAX HD">
+    <display-name lang="pt">CINEMAX HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="COMEDY CENTRAL HD">
+    <display-name lang="pt">COMEDY CENTRAL HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX FHD">
+    <display-name lang="pt">FOX FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="pt">FOX HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX HD (leg)">
+    <display-name lang="pt">FOX HD (leg)</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX LIFE HD">
+    <display-name lang="pt">FOX LIFE HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX PREMIUM 1 HD">
+    <display-name lang="pt">FOX PREMIUM 1 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FOX PREMIUM [alter]">
+    <display-name lang="pt">FOX PREMIUM [alter]</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FOX PREMIUM 2 HD">
+    <display-name lang="pt">FOX PREMIUM 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FOX PREMIUM 2 [alter]">
+    <display-name lang="pt">FOX PREMIUM 2 [alter]</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="pt">FX HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FX HD (leg)">
+    <display-name lang="pt">FX HD (leg)</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="MEGAPIX HD">
+    <display-name lang="pt">MEGAPIX HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="MEGAPIX HD (leg)">
+    <display-name lang="pt">MEGAPIX HD (leg)</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="PARAMOUNT HD">
+    <display-name lang="pt">PARAMOUNT HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPACE HD">
+    <display-name lang="pt">SPACE HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="STUDIO UNIVERSAL HD">
+    <display-name lang="pt">STUDIO UNIVERSAL HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SONY CHANNEL HD (leg)">
+    <display-name lang="pt">SONY CHANNEL HD (leg)</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SYFY HD">
+    <display-name lang="pt">SYFY HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TBS HD">
+    <display-name lang="pt">TBS HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT HD">
+    <display-name lang="pt">TNT HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT HD (leg)">
+    <display-name lang="pt">TNT HD (leg)</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT SERIES HD">
+    <display-name lang="pt">TNT SERIES HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT SERIES HD (leg)">
+    <display-name lang="pt">TNT SERIES HD (leg)</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="UNIVERSAL TV HD">
+    <display-name lang="pt">UNIVERSAL TV HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="WARNER HD">
+    <display-name lang="pt">WARNER HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="WARNER HD (leg)">
+    <display-name lang="pt">WARNER HD (leg)</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TELECINE ACTION HD">
+    <display-name lang="pt">TELECINE ACTION HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TELECINE ACTION HD (leg)">
+    <display-name lang="pt">TELECINE ACTION HD (leg)</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TELECINE CULT HD">
+    <display-name lang="pt">TELECINE CULT HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TELECINE FUN HD">
+    <display-name lang="pt">TELECINE FUN HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TELECINE PIPOCA HD">
+    <display-name lang="pt">TELECINE PIPOCA HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TELECINE PIPOCA HD (leg)">
+    <display-name lang="pt">TELECINE PIPOCA HD (leg)</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TELECINE PREMIUM HD">
+    <display-name lang="pt">TELECINE PREMIUM HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TELECINE PREMIUM HD (leg)">
+    <display-name lang="pt">TELECINE PREMIUM HD (leg)</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TELECINE TOUCH HD">
+    <display-name lang="pt">TELECINE TOUCH HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TELECINE TOUCH HD (leg)">
+    <display-name lang="pt">TELECINE TOUCH HD (leg)</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="pt">HBO HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO HD (leg)">
+    <display-name lang="pt">HBO HD (leg)</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="pt">HBO 2 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO PLUS HD">
+    <display-name lang="pt">HBO PLUS HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO PLUS HD (leg)">
+    <display-name lang="pt">HBO PLUS HD (leg)</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO FAMILY HD">
+    <display-name lang="pt">HBO FAMILY HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO SIGNATURE HD">
+    <display-name lang="pt">HBO SIGNATURE HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO MUNDI HD">
+    <display-name lang="pt">HBO MUNDI HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO POP HD">
+    <display-name lang="pt">HBO POP HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO POP HD (leg)">
+    <display-name lang="pt">HBO POP HD (leg)</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO XTREME HD">
+    <display-name lang="pt">HBO XTREME HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BOOMERANG HD">
+    <display-name lang="pt">BOOMERANG HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CARTOON NETWORK HD">
+    <display-name lang="pt">CARTOON NETWORK HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="DISCOVERY KIDS HD">
+    <display-name lang="pt">Discovery Kids</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="DISNEY CHANNEL HD">
+    <display-name lang="pt">DISNEY CHANNEL HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="DISNEY JR HD">
+    <display-name lang="pt">DISNEY JR HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="DISNEY XD HD">
+    <display-name lang="pt">DISNEY XD HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOOB HD">
+    <display-name lang="pt">GLOOB HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="NICKELODEON HD">
+    <display-name lang="pt">NICKELODEON HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="NICK JR HD.">
+    <display-name lang="pt">NICK JR HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ANIMAL PLANET HD">
+    <display-name lang="pt">ANIMAL PLANET HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL HD">
+    <display-name lang="pt">DISCOVERY CHANNEL HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="DISCOVERY SCIENCE HD">
+    <display-name lang="pt">DISCOVERY SCIENCE HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="DISCOVERY THEATER">
+    <display-name lang="pt">DISCOVERY THEATER</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="DISCOVERY TURBO HD">
+    <display-name lang="pt">DISCOVERY TURBO HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HISTORY CHANNEL HD">
+    <display-name lang="pt">HISTORY CHANNEL HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="H2 HD">
+    <display-name lang="pt">H2 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="NATIONAL GEOGRAPHIC">
+    <display-name lang="pt">NATIONAL GEOGRAPHIC</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="NATGEO WILD HD">
+    <display-name lang="pt">NATGEO WILD HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ARTE 1 HD">
+    <display-name lang="pt">ARTE 1 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CURTA! HD">
+    <display-name lang="pt">CURTA! HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISCOVERY h&amp;h HD">
+    <display-name lang="pt">DISCOVERY h&amp;h HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="E! HD">
+    <display-name lang="pt">E! HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FOOD NETWORK HD">
+    <display-name lang="pt">FOOD NETWORK HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GNT HD">
+    <display-name lang="pt">GNT HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="LIFETIME HD">
+    <display-name lang="pt">LIFETIME HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="OFF HD">
+    <display-name lang="pt">OFF HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TLC HD">
+    <display-name lang="pt">TLC HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="VIVA HD">
+    <display-name lang="pt">VIVA HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="WOOHOO HD">
+    <display-name lang="pt">WOOHOO HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BIS HD">
+    <display-name lang="pt">BIS HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="MTV HD">
+    <display-name lang="pt">MTV HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="MULTISHOW HD">
+    <display-name lang="pt">MULTISHOW HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FUTURA HD">
+    <display-name lang="pt">FUTURA HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <programme start="20210217004000 +0000" stop="20210217014500 +0000" channel="GLOBO RJ  FHD">
+    <title lang="pt">A Força do Querer</title>
+    <desc lang="pt">Bibi e Rubinho são parados pela polícia durante fuga e Silvana é encurralada.(n)</desc>
+  </programme>
+  <programme start="20210217014500 +0000" stop="20210217024500 +0000" channel="GLOBO RJ  FHD">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Quem você quer eliminar: Fiuk, Nego Di ou Sarah?(n)</desc>
+  </programme>
+  <programme start="20210217024500 +0000" stop="20210217032000 +0000" channel="GLOBO RJ  FHD">
+    <title lang="pt">Todas As Mulheres Do Mundo</title>
+    <desc lang="pt">Paulo conhece a amante de Cândido e acaba se encantando à primeira vista pela mulher do cara.(n)</desc>
+  </programme>
+  <programme start="20210217032000 +0000" stop="20210217041000 +0000" channel="GLOBO RJ  FHD">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210217041000 +0000" stop="20210217045000 +0000" channel="GLOBO RJ  FHD">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Atriz fala sobre o passado ao revisitar momentos icônicos da carreira, sobre o presente ao abordar as dificuldades da pandemia e sobre as expectativas para o futuro.(n)</desc>
+  </programme>
+  <programme start="20210217045000 +0000" stop="20210217070000 +0000" channel="GLOBO RJ  FHD">
+    <title lang="pt">Corujão I - As Boas Maneiras</title>
+    <title lang="en">As Boas Maneiras</title>
+    <desc lang="pt">Ana contrata Clara, uma solitária enfermeira moradora da periferia de São Paulo, para ser babá de seu filho ainda não nascido. Conforme a gravidez vai avançando, Ana começa a apresentar comportamentos cada vez mais estranhos.(n)</desc>
+  </programme>
+  <programme start="20210217070000 +0000" stop="20210217090000 +0000" channel="GLOBO RJ  FHD">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210217090000 +0000" stop="20210217113000 +0000" channel="GLOBO RJ  FHD">
+    <title lang="pt">Bom Dia Rio</title>
+    <desc lang="pt">As primeiras notícias do Rio de Janeiro, apresentadas por Flávio Fachel, com prestação de serviço, boletins de trânsito e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210217113000 +0000" stop="20210217123000 +0000" channel="GLOBO RJ  FHD">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210217123000 +0000" stop="20210217134500 +0000" channel="GLOBO RJ  FHD">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210217134500 +0000" stop="20210217150000 +0000" channel="GLOBO RJ  FHD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210217150000 +0000" stop="20210217160000 +0000" channel="GLOBO RJ  FHD">
+    <title lang="pt">RJ1</title>
+    <desc lang="pt">O telejornal, apresentado por Mariana Gross, exibe as principais notícias do Rio, com prestação de serviço e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210217160000 +0000" stop="20210217162500 +0000" channel="GLOBO RJ  FHD">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210217162500 +0000" stop="20210217180000 +0000" channel="GLOBO RJ  FHD">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210217180000 +0000" stop="20210217195000 +0000" channel="GLOBO RJ  FHD">
+    <title lang="pt">Sessão da Tarde - Alice Através do Espelho</title>
+    <title lang="en">Alice Through the Looking Glass</title>
+    <desc lang="pt">Alice retorna após uma longa viagem pelo mundo e reencontra a mãe. No casarão de uma grande festa, ela percebe a presença de um espelho mágico. A jovem atravessa o objeto e retorna ao País das Maravilhas, onde descobre que o Chapeleiro Maluco corre risco de morte, após fazer uma descoberta sobre seu passado. Para salvar o amigo, Alice deve conversar com o Tempo para voltar às vésperas de um evento traumático e mudar o destino do Chapeleiro. Nesta aventura, também descobre um trauma que separou as irmãs Rainha Branca e Rainha Vermelha.(n)</desc>
+  </programme>
+  <programme start="20210217195000 +0000" stop="20210217205500 +0000" channel="GLOBO RJ  FHD">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Sucesso de Manoel Carlos, 'Laços de Família' conduz uma crônica urbana que discute as relações humanas, especialmente entre pais e filhos, e é movida pelo amor incondicional de Helena pela filha Camila.(n)</desc>
+  </programme>
+  <programme start="20210217205500 +0000" stop="20210217212500 +0000" channel="GLOBO RJ  FHD">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20210217212500 +0000" stop="20210217221000 +0000" channel="GLOBO RJ  FHD">
+    <title lang="pt">Flor do Caribe</title>
+    <desc lang="pt">A história de uma mulher que será capaz de ultrapassar os obstáculos impostos pela vida para ficar com seu grande amor e um homem que desafia o destino em nome da justiça e em busca de seu amor interrompido.(n)</desc>
+  </programme>
+  <programme start="20210217221000 +0000" stop="20210217224000 +0000" channel="GLOBO RJ  FHD">
+    <title lang="pt">RJ2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210217224000 +0000" stop="20210217233000 +0000" channel="GLOBO RJ  FHD">
+    <title lang="pt">Haja Coração</title>
+    <desc lang="pt">De Daniel Ortiz, a novela faz uma releitura de Sassaricando. No universo vibrante de São Paulo, vai se desenrolar um enredo de muitas emoções, aventuras, amores, armações e diversão.(n)</desc>
+  </programme>
+  <programme start="20210217233000 +0000" stop="20210218004000 +0000" channel="GLOBO RJ  FHD">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210217004000 +0000" stop="20210217014500 +0000" channel="GLOBO RJ HD">
+    <title lang="pt">A Força do Querer</title>
+    <desc lang="pt">Bibi e Rubinho são parados pela polícia durante fuga e Silvana é encurralada.(n)</desc>
+  </programme>
+  <programme start="20210217014500 +0000" stop="20210217024500 +0000" channel="GLOBO RJ HD">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Quem você quer eliminar: Fiuk, Nego Di ou Sarah?(n)</desc>
+  </programme>
+  <programme start="20210217024500 +0000" stop="20210217032000 +0000" channel="GLOBO RJ HD">
+    <title lang="pt">Todas As Mulheres Do Mundo</title>
+    <desc lang="pt">Paulo conhece a amante de Cândido e acaba se encantando à primeira vista pela mulher do cara.(n)</desc>
+  </programme>
+  <programme start="20210217032000 +0000" stop="20210217041000 +0000" channel="GLOBO RJ HD">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210217041000 +0000" stop="20210217045000 +0000" channel="GLOBO RJ HD">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Atriz fala sobre o passado ao revisitar momentos icônicos da carreira, sobre o presente ao abordar as dificuldades da pandemia e sobre as expectativas para o futuro.(n)</desc>
+  </programme>
+  <programme start="20210217045000 +0000" stop="20210217070000 +0000" channel="GLOBO RJ HD">
+    <title lang="pt">Corujão I - As Boas Maneiras</title>
+    <title lang="en">As Boas Maneiras</title>
+    <desc lang="pt">Ana contrata Clara, uma solitária enfermeira moradora da periferia de São Paulo, para ser babá de seu filho ainda não nascido. Conforme a gravidez vai avançando, Ana começa a apresentar comportamentos cada vez mais estranhos.(n)</desc>
+  </programme>
+  <programme start="20210217070000 +0000" stop="20210217090000 +0000" channel="GLOBO RJ HD">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210217090000 +0000" stop="20210217113000 +0000" channel="GLOBO RJ HD">
+    <title lang="pt">Bom Dia Rio</title>
+    <desc lang="pt">As primeiras notícias do Rio de Janeiro, apresentadas por Flávio Fachel, com prestação de serviço, boletins de trânsito e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210217113000 +0000" stop="20210217123000 +0000" channel="GLOBO RJ HD">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210217123000 +0000" stop="20210217134500 +0000" channel="GLOBO RJ HD">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210217134500 +0000" stop="20210217150000 +0000" channel="GLOBO RJ HD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210217150000 +0000" stop="20210217160000 +0000" channel="GLOBO RJ HD">
+    <title lang="pt">RJ1</title>
+    <desc lang="pt">O telejornal, apresentado por Mariana Gross, exibe as principais notícias do Rio, com prestação de serviço e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210217160000 +0000" stop="20210217162500 +0000" channel="GLOBO RJ HD">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210217162500 +0000" stop="20210217180000 +0000" channel="GLOBO RJ HD">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210217180000 +0000" stop="20210217195000 +0000" channel="GLOBO RJ HD">
+    <title lang="pt">Sessão da Tarde - Alice Através do Espelho</title>
+    <title lang="en">Alice Through the Looking Glass</title>
+    <desc lang="pt">Alice retorna após uma longa viagem pelo mundo e reencontra a mãe. No casarão de uma grande festa, ela percebe a presença de um espelho mágico. A jovem atravessa o objeto e retorna ao País das Maravilhas, onde descobre que o Chapeleiro Maluco corre risco de morte, após fazer uma descoberta sobre seu passado. Para salvar o amigo, Alice deve conversar com o Tempo para voltar às vésperas de um evento traumático e mudar o destino do Chapeleiro. Nesta aventura, também descobre um trauma que separou as irmãs Rainha Branca e Rainha Vermelha.(n)</desc>
+  </programme>
+  <programme start="20210217195000 +0000" stop="20210217205500 +0000" channel="GLOBO RJ HD">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Sucesso de Manoel Carlos, 'Laços de Família' conduz uma crônica urbana que discute as relações humanas, especialmente entre pais e filhos, e é movida pelo amor incondicional de Helena pela filha Camila.(n)</desc>
+  </programme>
+  <programme start="20210217205500 +0000" stop="20210217212500 +0000" channel="GLOBO RJ HD">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20210217212500 +0000" stop="20210217221000 +0000" channel="GLOBO RJ HD">
+    <title lang="pt">Flor do Caribe</title>
+    <desc lang="pt">A história de uma mulher que será capaz de ultrapassar os obstáculos impostos pela vida para ficar com seu grande amor e um homem que desafia o destino em nome da justiça e em busca de seu amor interrompido.(n)</desc>
+  </programme>
+  <programme start="20210217221000 +0000" stop="20210217224000 +0000" channel="GLOBO RJ HD">
+    <title lang="pt">RJ2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210217224000 +0000" stop="20210217233000 +0000" channel="GLOBO RJ HD">
+    <title lang="pt">Haja Coração</title>
+    <desc lang="pt">De Daniel Ortiz, a novela faz uma releitura de Sassaricando. No universo vibrante de São Paulo, vai se desenrolar um enredo de muitas emoções, aventuras, amores, armações e diversão.(n)</desc>
+  </programme>
+  <programme start="20210217233000 +0000" stop="20210218004000 +0000" channel="GLOBO RJ HD">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210217004000 +0000" stop="20210217014500 +0000" channel="GLOBO RJ [alter]">
+    <title lang="pt">A Força do Querer</title>
+    <desc lang="pt">Bibi e Rubinho são parados pela polícia durante fuga e Silvana é encurralada.(n)</desc>
+  </programme>
+  <programme start="20210217014500 +0000" stop="20210217024500 +0000" channel="GLOBO RJ [alter]">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Quem você quer eliminar: Fiuk, Nego Di ou Sarah?(n)</desc>
+  </programme>
+  <programme start="20210217024500 +0000" stop="20210217032000 +0000" channel="GLOBO RJ [alter]">
+    <title lang="pt">Todas As Mulheres Do Mundo</title>
+    <desc lang="pt">Paulo conhece a amante de Cândido e acaba se encantando à primeira vista pela mulher do cara.(n)</desc>
+  </programme>
+  <programme start="20210217032000 +0000" stop="20210217041000 +0000" channel="GLOBO RJ [alter]">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210217041000 +0000" stop="20210217045000 +0000" channel="GLOBO RJ [alter]">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Atriz fala sobre o passado ao revisitar momentos icônicos da carreira, sobre o presente ao abordar as dificuldades da pandemia e sobre as expectativas para o futuro.(n)</desc>
+  </programme>
+  <programme start="20210217045000 +0000" stop="20210217070000 +0000" channel="GLOBO RJ [alter]">
+    <title lang="pt">Corujão I - As Boas Maneiras</title>
+    <title lang="en">As Boas Maneiras</title>
+    <desc lang="pt">Ana contrata Clara, uma solitária enfermeira moradora da periferia de São Paulo, para ser babá de seu filho ainda não nascido. Conforme a gravidez vai avançando, Ana começa a apresentar comportamentos cada vez mais estranhos.(n)</desc>
+  </programme>
+  <programme start="20210217070000 +0000" stop="20210217090000 +0000" channel="GLOBO RJ [alter]">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210217090000 +0000" stop="20210217113000 +0000" channel="GLOBO RJ [alter]">
+    <title lang="pt">Bom Dia Rio</title>
+    <desc lang="pt">As primeiras notícias do Rio de Janeiro, apresentadas por Flávio Fachel, com prestação de serviço, boletins de trânsito e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210217113000 +0000" stop="20210217123000 +0000" channel="GLOBO RJ [alter]">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210217123000 +0000" stop="20210217134500 +0000" channel="GLOBO RJ [alter]">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210217134500 +0000" stop="20210217150000 +0000" channel="GLOBO RJ [alter]">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210217150000 +0000" stop="20210217160000 +0000" channel="GLOBO RJ [alter]">
+    <title lang="pt">RJ1</title>
+    <desc lang="pt">O telejornal, apresentado por Mariana Gross, exibe as principais notícias do Rio, com prestação de serviço e previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210217160000 +0000" stop="20210217162500 +0000" channel="GLOBO RJ [alter]">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210217162500 +0000" stop="20210217180000 +0000" channel="GLOBO RJ [alter]">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210217180000 +0000" stop="20210217195000 +0000" channel="GLOBO RJ [alter]">
+    <title lang="pt">Sessão da Tarde - Alice Através do Espelho</title>
+    <title lang="en">Alice Through the Looking Glass</title>
+    <desc lang="pt">Alice retorna após uma longa viagem pelo mundo e reencontra a mãe. No casarão de uma grande festa, ela percebe a presença de um espelho mágico. A jovem atravessa o objeto e retorna ao País das Maravilhas, onde descobre que o Chapeleiro Maluco corre risco de morte, após fazer uma descoberta sobre seu passado. Para salvar o amigo, Alice deve conversar com o Tempo para voltar às vésperas de um evento traumático e mudar o destino do Chapeleiro. Nesta aventura, também descobre um trauma que separou as irmãs Rainha Branca e Rainha Vermelha.(n)</desc>
+  </programme>
+  <programme start="20210217195000 +0000" stop="20210217205500 +0000" channel="GLOBO RJ [alter]">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Sucesso de Manoel Carlos, 'Laços de Família' conduz uma crônica urbana que discute as relações humanas, especialmente entre pais e filhos, e é movida pelo amor incondicional de Helena pela filha Camila.(n)</desc>
+  </programme>
+  <programme start="20210217205500 +0000" stop="20210217212500 +0000" channel="GLOBO RJ [alter]">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20210217212500 +0000" stop="20210217221000 +0000" channel="GLOBO RJ [alter]">
+    <title lang="pt">Flor do Caribe</title>
+    <desc lang="pt">A história de uma mulher que será capaz de ultrapassar os obstáculos impostos pela vida para ficar com seu grande amor e um homem que desafia o destino em nome da justiça e em busca de seu amor interrompido.(n)</desc>
+  </programme>
+  <programme start="20210217221000 +0000" stop="20210217224000 +0000" channel="GLOBO RJ [alter]">
+    <title lang="pt">RJ2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210217224000 +0000" stop="20210217233000 +0000" channel="GLOBO RJ [alter]">
+    <title lang="pt">Haja Coração</title>
+    <desc lang="pt">De Daniel Ortiz, a novela faz uma releitura de Sassaricando. No universo vibrante de São Paulo, vai se desenrolar um enredo de muitas emoções, aventuras, amores, armações e diversão.(n)</desc>
+  </programme>
+  <programme start="20210217233000 +0000" stop="20210218004000 +0000" channel="GLOBO RJ [alter]">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210217004000 +0000" stop="20210217014500 +0000" channel="GLOBO SP FHD">
+    <title lang="pt">A Força do Querer</title>
+    <desc lang="pt">Bibi e Rubinho são parados pela polícia durante fuga e Silvana é encurralada.(n)</desc>
+  </programme>
+  <programme start="20210217014500 +0000" stop="20210217024500 +0000" channel="GLOBO SP FHD">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Quem você quer eliminar: Fiuk, Nego Di ou Sarah?(n)</desc>
+  </programme>
+  <programme start="20210217024500 +0000" stop="20210217032000 +0000" channel="GLOBO SP FHD">
+    <title lang="pt">Todas As Mulheres Do Mundo</title>
+    <desc lang="pt">Paulo conhece a amante de Cândido e acaba se encantando à primeira vista pela mulher do cara.(n)</desc>
+  </programme>
+  <programme start="20210217032000 +0000" stop="20210217041000 +0000" channel="GLOBO SP FHD">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210217041000 +0000" stop="20210217045000 +0000" channel="GLOBO SP FHD">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Atriz fala sobre o passado ao revisitar momentos icônicos da carreira, sobre o presente ao abordar as dificuldades da pandemia e sobre as expectativas para o futuro.(n)</desc>
+  </programme>
+  <programme start="20210217045000 +0000" stop="20210217070000 +0000" channel="GLOBO SP FHD">
+    <title lang="pt">Corujão I - As Boas Maneiras</title>
+    <title lang="en">As Boas Maneiras</title>
+    <desc lang="pt">Ana contrata Clara, uma solitária enfermeira moradora da periferia de São Paulo, para ser babá de seu filho ainda não nascido. Conforme a gravidez vai avançando, Ana começa a apresentar comportamentos cada vez mais estranhos.(n)</desc>
+  </programme>
+  <programme start="20210217070000 +0000" stop="20210217090000 +0000" channel="GLOBO SP FHD">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210217090000 +0000" stop="20210217113000 +0000" channel="GLOBO SP FHD">
+    <title lang="pt">Bom Dia São Paulo</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia SP, que traz ainda orientações de trânsito.(n)</desc>
+  </programme>
+  <programme start="20210217113000 +0000" stop="20210217123000 +0000" channel="GLOBO SP FHD">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210217123000 +0000" stop="20210217134500 +0000" channel="GLOBO SP FHD">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210217134500 +0000" stop="20210217150000 +0000" channel="GLOBO SP FHD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210217150000 +0000" stop="20210217160000 +0000" channel="GLOBO SP FHD">
+    <title lang="pt">SP1</title>
+    <desc lang="pt">César Tralli mostra o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210217160000 +0000" stop="20210217162500 +0000" channel="GLOBO SP FHD">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210217162500 +0000" stop="20210217180000 +0000" channel="GLOBO SP FHD">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210217180000 +0000" stop="20210217195000 +0000" channel="GLOBO SP FHD">
+    <title lang="pt">Sessão da Tarde - Alice Através do Espelho</title>
+    <title lang="en">Alice Through the Looking Glass</title>
+    <desc lang="pt">Alice retorna após uma longa viagem pelo mundo e reencontra a mãe. No casarão de uma grande festa, ela percebe a presença de um espelho mágico. A jovem atravessa o objeto e retorna ao País das Maravilhas, onde descobre que o Chapeleiro Maluco corre risco de morte, após fazer uma descoberta sobre seu passado. Para salvar o amigo, Alice deve conversar com o Tempo para voltar às vésperas de um evento traumático e mudar o destino do Chapeleiro. Nesta aventura, também descobre um trauma que separou as irmãs Rainha Branca e Rainha Vermelha.(n)</desc>
+  </programme>
+  <programme start="20210217195000 +0000" stop="20210217205500 +0000" channel="GLOBO SP FHD">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Sucesso de Manoel Carlos, 'Laços de Família' conduz uma crônica urbana que discute as relações humanas, especialmente entre pais e filhos, e é movida pelo amor incondicional de Helena pela filha Camila.(n)</desc>
+  </programme>
+  <programme start="20210217205500 +0000" stop="20210217212500 +0000" channel="GLOBO SP FHD">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20210217212500 +0000" stop="20210217221000 +0000" channel="GLOBO SP FHD">
+    <title lang="pt">Flor do Caribe</title>
+    <desc lang="pt">A história de uma mulher que será capaz de ultrapassar os obstáculos impostos pela vida para ficar com seu grande amor e um homem que desafia o destino em nome da justiça e em busca de seu amor interrompido.(n)</desc>
+  </programme>
+  <programme start="20210217221000 +0000" stop="20210217224000 +0000" channel="GLOBO SP FHD">
+    <title lang="pt">SP2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210217224000 +0000" stop="20210217233000 +0000" channel="GLOBO SP FHD">
+    <title lang="pt">Haja Coração</title>
+    <desc lang="pt">De Daniel Ortiz, a novela faz uma releitura de Sassaricando. No universo vibrante de São Paulo, vai se desenrolar um enredo de muitas emoções, aventuras, amores, armações e diversão.(n)</desc>
+  </programme>
+  <programme start="20210217233000 +0000" stop="20210218004000 +0000" channel="GLOBO SP FHD">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210217004000 +0000" stop="20210217014500 +0000" channel="GLOBO SP HD">
+    <title lang="pt">A Força do Querer</title>
+    <desc lang="pt">Bibi e Rubinho são parados pela polícia durante fuga e Silvana é encurralada.(n)</desc>
+  </programme>
+  <programme start="20210217014500 +0000" stop="20210217024500 +0000" channel="GLOBO SP HD">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Quem você quer eliminar: Fiuk, Nego Di ou Sarah?(n)</desc>
+  </programme>
+  <programme start="20210217024500 +0000" stop="20210217032000 +0000" channel="GLOBO SP HD">
+    <title lang="pt">Todas As Mulheres Do Mundo</title>
+    <desc lang="pt">Paulo conhece a amante de Cândido e acaba se encantando à primeira vista pela mulher do cara.(n)</desc>
+  </programme>
+  <programme start="20210217032000 +0000" stop="20210217041000 +0000" channel="GLOBO SP HD">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210217041000 +0000" stop="20210217045000 +0000" channel="GLOBO SP HD">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Atriz fala sobre o passado ao revisitar momentos icônicos da carreira, sobre o presente ao abordar as dificuldades da pandemia e sobre as expectativas para o futuro.(n)</desc>
+  </programme>
+  <programme start="20210217045000 +0000" stop="20210217070000 +0000" channel="GLOBO SP HD">
+    <title lang="pt">Corujão I - As Boas Maneiras</title>
+    <title lang="en">As Boas Maneiras</title>
+    <desc lang="pt">Ana contrata Clara, uma solitária enfermeira moradora da periferia de São Paulo, para ser babá de seu filho ainda não nascido. Conforme a gravidez vai avançando, Ana começa a apresentar comportamentos cada vez mais estranhos.(n)</desc>
+  </programme>
+  <programme start="20210217070000 +0000" stop="20210217090000 +0000" channel="GLOBO SP HD">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210217090000 +0000" stop="20210217113000 +0000" channel="GLOBO SP HD">
+    <title lang="pt">Bom Dia São Paulo</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia SP, que traz ainda orientações de trânsito.(n)</desc>
+  </programme>
+  <programme start="20210217113000 +0000" stop="20210217123000 +0000" channel="GLOBO SP HD">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210217123000 +0000" stop="20210217134500 +0000" channel="GLOBO SP HD">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210217134500 +0000" stop="20210217150000 +0000" channel="GLOBO SP HD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210217150000 +0000" stop="20210217160000 +0000" channel="GLOBO SP HD">
+    <title lang="pt">SP1</title>
+    <desc lang="pt">César Tralli mostra o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210217160000 +0000" stop="20210217162500 +0000" channel="GLOBO SP HD">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210217162500 +0000" stop="20210217180000 +0000" channel="GLOBO SP HD">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210217180000 +0000" stop="20210217195000 +0000" channel="GLOBO SP HD">
+    <title lang="pt">Sessão da Tarde - Alice Através do Espelho</title>
+    <title lang="en">Alice Through the Looking Glass</title>
+    <desc lang="pt">Alice retorna após uma longa viagem pelo mundo e reencontra a mãe. No casarão de uma grande festa, ela percebe a presença de um espelho mágico. A jovem atravessa o objeto e retorna ao País das Maravilhas, onde descobre que o Chapeleiro Maluco corre risco de morte, após fazer uma descoberta sobre seu passado. Para salvar o amigo, Alice deve conversar com o Tempo para voltar às vésperas de um evento traumático e mudar o destino do Chapeleiro. Nesta aventura, também descobre um trauma que separou as irmãs Rainha Branca e Rainha Vermelha.(n)</desc>
+  </programme>
+  <programme start="20210217195000 +0000" stop="20210217205500 +0000" channel="GLOBO SP HD">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Sucesso de Manoel Carlos, 'Laços de Família' conduz uma crônica urbana que discute as relações humanas, especialmente entre pais e filhos, e é movida pelo amor incondicional de Helena pela filha Camila.(n)</desc>
+  </programme>
+  <programme start="20210217205500 +0000" stop="20210217212500 +0000" channel="GLOBO SP HD">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20210217212500 +0000" stop="20210217221000 +0000" channel="GLOBO SP HD">
+    <title lang="pt">Flor do Caribe</title>
+    <desc lang="pt">A história de uma mulher que será capaz de ultrapassar os obstáculos impostos pela vida para ficar com seu grande amor e um homem que desafia o destino em nome da justiça e em busca de seu amor interrompido.(n)</desc>
+  </programme>
+  <programme start="20210217221000 +0000" stop="20210217224000 +0000" channel="GLOBO SP HD">
+    <title lang="pt">SP2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210217224000 +0000" stop="20210217233000 +0000" channel="GLOBO SP HD">
+    <title lang="pt">Haja Coração</title>
+    <desc lang="pt">De Daniel Ortiz, a novela faz uma releitura de Sassaricando. No universo vibrante de São Paulo, vai se desenrolar um enredo de muitas emoções, aventuras, amores, armações e diversão.(n)</desc>
+  </programme>
+  <programme start="20210217233000 +0000" stop="20210218004000 +0000" channel="GLOBO SP HD">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210217004000 +0000" stop="20210217014500 +0000" channel="GLOBO SP [alter]">
+    <title lang="pt">A Força do Querer</title>
+    <desc lang="pt">Bibi e Rubinho são parados pela polícia durante fuga e Silvana é encurralada.(n)</desc>
+  </programme>
+  <programme start="20210217014500 +0000" stop="20210217024500 +0000" channel="GLOBO SP [alter]">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Quem você quer eliminar: Fiuk, Nego Di ou Sarah?(n)</desc>
+  </programme>
+  <programme start="20210217024500 +0000" stop="20210217032000 +0000" channel="GLOBO SP [alter]">
+    <title lang="pt">Todas As Mulheres Do Mundo</title>
+    <desc lang="pt">Paulo conhece a amante de Cândido e acaba se encantando à primeira vista pela mulher do cara.(n)</desc>
+  </programme>
+  <programme start="20210217032000 +0000" stop="20210217041000 +0000" channel="GLOBO SP [alter]">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210217041000 +0000" stop="20210217045000 +0000" channel="GLOBO SP [alter]">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Atriz fala sobre o passado ao revisitar momentos icônicos da carreira, sobre o presente ao abordar as dificuldades da pandemia e sobre as expectativas para o futuro.(n)</desc>
+  </programme>
+  <programme start="20210217045000 +0000" stop="20210217070000 +0000" channel="GLOBO SP [alter]">
+    <title lang="pt">Corujão I - As Boas Maneiras</title>
+    <title lang="en">As Boas Maneiras</title>
+    <desc lang="pt">Ana contrata Clara, uma solitária enfermeira moradora da periferia de São Paulo, para ser babá de seu filho ainda não nascido. Conforme a gravidez vai avançando, Ana começa a apresentar comportamentos cada vez mais estranhos.(n)</desc>
+  </programme>
+  <programme start="20210217070000 +0000" stop="20210217090000 +0000" channel="GLOBO SP [alter]">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210217090000 +0000" stop="20210217113000 +0000" channel="GLOBO SP [alter]">
+    <title lang="pt">Bom Dia São Paulo</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia SP, que traz ainda orientações de trânsito.(n)</desc>
+  </programme>
+  <programme start="20210217113000 +0000" stop="20210217123000 +0000" channel="GLOBO SP [alter]">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210217123000 +0000" stop="20210217134500 +0000" channel="GLOBO SP [alter]">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210217134500 +0000" stop="20210217150000 +0000" channel="GLOBO SP [alter]">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210217150000 +0000" stop="20210217160000 +0000" channel="GLOBO SP [alter]">
+    <title lang="pt">SP1</title>
+    <desc lang="pt">César Tralli mostra o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210217160000 +0000" stop="20210217162500 +0000" channel="GLOBO SP [alter]">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20210217162500 +0000" stop="20210217180000 +0000" channel="GLOBO SP [alter]">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210217180000 +0000" stop="20210217195000 +0000" channel="GLOBO SP [alter]">
+    <title lang="pt">Sessão da Tarde - Alice Através do Espelho</title>
+    <title lang="en">Alice Through the Looking Glass</title>
+    <desc lang="pt">Alice retorna após uma longa viagem pelo mundo e reencontra a mãe. No casarão de uma grande festa, ela percebe a presença de um espelho mágico. A jovem atravessa o objeto e retorna ao País das Maravilhas, onde descobre que o Chapeleiro Maluco corre risco de morte, após fazer uma descoberta sobre seu passado. Para salvar o amigo, Alice deve conversar com o Tempo para voltar às vésperas de um evento traumático e mudar o destino do Chapeleiro. Nesta aventura, também descobre um trauma que separou as irmãs Rainha Branca e Rainha Vermelha.(n)</desc>
+  </programme>
+  <programme start="20210217195000 +0000" stop="20210217205500 +0000" channel="GLOBO SP [alter]">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Sucesso de Manoel Carlos, 'Laços de Família' conduz uma crônica urbana que discute as relações humanas, especialmente entre pais e filhos, e é movida pelo amor incondicional de Helena pela filha Camila.(n)</desc>
+  </programme>
+  <programme start="20210217205500 +0000" stop="20210217212500 +0000" channel="GLOBO SP [alter]">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20210217212500 +0000" stop="20210217221000 +0000" channel="GLOBO SP [alter]">
+    <title lang="pt">Flor do Caribe</title>
+    <desc lang="pt">A história de uma mulher que será capaz de ultrapassar os obstáculos impostos pela vida para ficar com seu grande amor e um homem que desafia o destino em nome da justiça e em busca de seu amor interrompido.(n)</desc>
+  </programme>
+  <programme start="20210217221000 +0000" stop="20210217224000 +0000" channel="GLOBO SP [alter]">
+    <title lang="pt">SP2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20210217224000 +0000" stop="20210217233000 +0000" channel="GLOBO SP [alter]">
+    <title lang="pt">Haja Coração</title>
+    <desc lang="pt">De Daniel Ortiz, a novela faz uma releitura de Sassaricando. No universo vibrante de São Paulo, vai se desenrolar um enredo de muitas emoções, aventuras, amores, armações e diversão.(n)</desc>
+  </programme>
+  <programme start="20210217233000 +0000" stop="20210218004000 +0000" channel="GLOBO SP [alter]">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210217004000 +0000" stop="20210217014500 +0000" channel="GLOBO PB FHD">
+    <title lang="pt">A Força do Querer</title>
+    <desc lang="pt">Bibi e Rubinho são parados pela polícia durante fuga e Silvana é encurralada.(n)</desc>
+  </programme>
+  <programme start="20210217014500 +0000" stop="20210217024500 +0000" channel="GLOBO PB FHD">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Quem você quer eliminar: Fiuk, Nego Di ou Sarah?(n)</desc>
+  </programme>
+  <programme start="20210217024500 +0000" stop="20210217032000 +0000" channel="GLOBO PB FHD">
+    <title lang="pt">Todas As Mulheres Do Mundo</title>
+    <desc lang="pt">Paulo conhece a amante de Cândido e acaba se encantando à primeira vista pela mulher do cara.(n)</desc>
+  </programme>
+  <programme start="20210217032000 +0000" stop="20210217041000 +0000" channel="GLOBO PB FHD">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210217041000 +0000" stop="20210217045000 +0000" channel="GLOBO PB FHD">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Atriz fala sobre o passado ao revisitar momentos icônicos da carreira, sobre o presente ao abordar as dificuldades da pandemia e sobre as expectativas para o futuro.(n)</desc>
+  </programme>
+  <programme start="20210217045000 +0000" stop="20210217070000 +0000" channel="GLOBO PB FHD">
+    <title lang="pt">Corujão I - As Boas Maneiras</title>
+    <title lang="en">As Boas Maneiras</title>
+    <desc lang="pt">Ana contrata Clara, uma solitária enfermeira moradora da periferia de São Paulo, para ser babá de seu filho ainda não nascido. Conforme a gravidez vai avançando, Ana começa a apresentar comportamentos cada vez mais estranhos.(n)</desc>
+  </programme>
+  <programme start="20210217070000 +0000" stop="20210217090000 +0000" channel="GLOBO PB FHD">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210217090000 +0000" stop="20210217113000 +0000" channel="GLOBO PB FHD">
+    <title lang="pt">Bom Dia Praça</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia Praça, que traz ainda orientações de trânsito.(n)</desc>
+  </programme>
+  <programme start="20210217113000 +0000" stop="20210217123000 +0000" channel="GLOBO PB FHD">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210217123000 +0000" stop="20210217134500 +0000" channel="GLOBO PB FHD">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210217134500 +0000" stop="20210217150000 +0000" channel="GLOBO PB FHD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210217150000 +0000" stop="20210217160000 +0000" channel="GLOBO PB FHD">
+    <title lang="pt">JPB1</title>
+  </programme>
+  <programme start="20210217160000 +0000" stop="20210217162500 +0000" channel="GLOBO PB FHD">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20210217162500 +0000" stop="20210217180000 +0000" channel="GLOBO PB FHD">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210217180000 +0000" stop="20210217195000 +0000" channel="GLOBO PB FHD">
+    <title lang="pt">Sessão da Tarde - Alice Através do Espelho</title>
+    <title lang="en">Alice Through the Looking Glass</title>
+    <desc lang="pt">Alice retorna após uma longa viagem pelo mundo e reencontra a mãe. No casarão de uma grande festa, ela percebe a presença de um espelho mágico. A jovem atravessa o objeto e retorna ao País das Maravilhas, onde descobre que o Chapeleiro Maluco corre risco de morte, após fazer uma descoberta sobre seu passado. Para salvar o amigo, Alice deve conversar com o Tempo para voltar às vésperas de um evento traumático e mudar o destino do Chapeleiro. Nesta aventura, também descobre um trauma que separou as irmãs Rainha Branca e Rainha Vermelha.(n)</desc>
+  </programme>
+  <programme start="20210217195000 +0000" stop="20210217205500 +0000" channel="GLOBO PB FHD">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Sucesso de Manoel Carlos, 'Laços de Família' conduz uma crônica urbana que discute as relações humanas, especialmente entre pais e filhos, e é movida pelo amor incondicional de Helena pela filha Camila.(n)</desc>
+  </programme>
+  <programme start="20210217205500 +0000" stop="20210217212500 +0000" channel="GLOBO PB FHD">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20210217212500 +0000" stop="20210217221000 +0000" channel="GLOBO PB FHD">
+    <title lang="pt">Flor do Caribe</title>
+    <desc lang="pt">A história de uma mulher que será capaz de ultrapassar os obstáculos impostos pela vida para ficar com seu grande amor e um homem que desafia o destino em nome da justiça e em busca de seu amor interrompido.(n)</desc>
+  </programme>
+  <programme start="20210217221000 +0000" stop="20210217224000 +0000" channel="GLOBO PB FHD">
+    <title lang="pt">Praca Tv Ii</title>
+    <desc lang="pt">Jornal da rede exibido no slot do praça tv 2.(n)</desc>
+  </programme>
+  <programme start="20210217224000 +0000" stop="20210217233000 +0000" channel="GLOBO PB FHD">
+    <title lang="pt">Haja Coração</title>
+    <desc lang="pt">De Daniel Ortiz, a novela faz uma releitura de Sassaricando. No universo vibrante de São Paulo, vai se desenrolar um enredo de muitas emoções, aventuras, amores, armações e diversão.(n)</desc>
+  </programme>
+  <programme start="20210217233000 +0000" stop="20210218004000 +0000" channel="GLOBO PB FHD">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210217004000 +0000" stop="20210217014500 +0000" channel="GLOBO PB HD">
+    <title lang="pt">A Força do Querer</title>
+    <desc lang="pt">Bibi e Rubinho são parados pela polícia durante fuga e Silvana é encurralada.(n)</desc>
+  </programme>
+  <programme start="20210217014500 +0000" stop="20210217024500 +0000" channel="GLOBO PB HD">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Quem você quer eliminar: Fiuk, Nego Di ou Sarah?(n)</desc>
+  </programme>
+  <programme start="20210217024500 +0000" stop="20210217032000 +0000" channel="GLOBO PB HD">
+    <title lang="pt">Todas As Mulheres Do Mundo</title>
+    <desc lang="pt">Paulo conhece a amante de Cândido e acaba se encantando à primeira vista pela mulher do cara.(n)</desc>
+  </programme>
+  <programme start="20210217032000 +0000" stop="20210217041000 +0000" channel="GLOBO PB HD">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210217041000 +0000" stop="20210217045000 +0000" channel="GLOBO PB HD">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Atriz fala sobre o passado ao revisitar momentos icônicos da carreira, sobre o presente ao abordar as dificuldades da pandemia e sobre as expectativas para o futuro.(n)</desc>
+  </programme>
+  <programme start="20210217045000 +0000" stop="20210217070000 +0000" channel="GLOBO PB HD">
+    <title lang="pt">Corujão I - As Boas Maneiras</title>
+    <title lang="en">As Boas Maneiras</title>
+    <desc lang="pt">Ana contrata Clara, uma solitária enfermeira moradora da periferia de São Paulo, para ser babá de seu filho ainda não nascido. Conforme a gravidez vai avançando, Ana começa a apresentar comportamentos cada vez mais estranhos.(n)</desc>
+  </programme>
+  <programme start="20210217070000 +0000" stop="20210217090000 +0000" channel="GLOBO PB HD">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210217090000 +0000" stop="20210217113000 +0000" channel="GLOBO PB HD">
+    <title lang="pt">Bom Dia Praça</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia Praça, que traz ainda orientações de trânsito.(n)</desc>
+  </programme>
+  <programme start="20210217113000 +0000" stop="20210217123000 +0000" channel="GLOBO PB HD">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210217123000 +0000" stop="20210217134500 +0000" channel="GLOBO PB HD">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210217134500 +0000" stop="20210217150000 +0000" channel="GLOBO PB HD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210217150000 +0000" stop="20210217160000 +0000" channel="GLOBO PB HD">
+    <title lang="pt">JPB1</title>
+  </programme>
+  <programme start="20210217160000 +0000" stop="20210217162500 +0000" channel="GLOBO PB HD">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20210217162500 +0000" stop="20210217180000 +0000" channel="GLOBO PB HD">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210217180000 +0000" stop="20210217195000 +0000" channel="GLOBO PB HD">
+    <title lang="pt">Sessão da Tarde - Alice Através do Espelho</title>
+    <title lang="en">Alice Through the Looking Glass</title>
+    <desc lang="pt">Alice retorna após uma longa viagem pelo mundo e reencontra a mãe. No casarão de uma grande festa, ela percebe a presença de um espelho mágico. A jovem atravessa o objeto e retorna ao País das Maravilhas, onde descobre que o Chapeleiro Maluco corre risco de morte, após fazer uma descoberta sobre seu passado. Para salvar o amigo, Alice deve conversar com o Tempo para voltar às vésperas de um evento traumático e mudar o destino do Chapeleiro. Nesta aventura, também descobre um trauma que separou as irmãs Rainha Branca e Rainha Vermelha.(n)</desc>
+  </programme>
+  <programme start="20210217195000 +0000" stop="20210217205500 +0000" channel="GLOBO PB HD">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Sucesso de Manoel Carlos, 'Laços de Família' conduz uma crônica urbana que discute as relações humanas, especialmente entre pais e filhos, e é movida pelo amor incondicional de Helena pela filha Camila.(n)</desc>
+  </programme>
+  <programme start="20210217205500 +0000" stop="20210217212500 +0000" channel="GLOBO PB HD">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20210217212500 +0000" stop="20210217221000 +0000" channel="GLOBO PB HD">
+    <title lang="pt">Flor do Caribe</title>
+    <desc lang="pt">A história de uma mulher que será capaz de ultrapassar os obstáculos impostos pela vida para ficar com seu grande amor e um homem que desafia o destino em nome da justiça e em busca de seu amor interrompido.(n)</desc>
+  </programme>
+  <programme start="20210217221000 +0000" stop="20210217224000 +0000" channel="GLOBO PB HD">
+    <title lang="pt">Praca Tv Ii</title>
+    <desc lang="pt">Jornal da rede exibido no slot do praça tv 2.(n)</desc>
+  </programme>
+  <programme start="20210217224000 +0000" stop="20210217233000 +0000" channel="GLOBO PB HD">
+    <title lang="pt">Haja Coração</title>
+    <desc lang="pt">De Daniel Ortiz, a novela faz uma releitura de Sassaricando. No universo vibrante de São Paulo, vai se desenrolar um enredo de muitas emoções, aventuras, amores, armações e diversão.(n)</desc>
+  </programme>
+  <programme start="20210217233000 +0000" stop="20210218004000 +0000" channel="GLOBO PB HD">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210217004000 +0000" stop="20210217014500 +0000" channel="GLOBO MG FHD">
+    <title lang="pt">A Força do Querer</title>
+    <desc lang="pt">Bibi e Rubinho são parados pela polícia durante fuga e Silvana é encurralada.(n)</desc>
+  </programme>
+  <programme start="20210217014500 +0000" stop="20210217024500 +0000" channel="GLOBO MG FHD">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Quem você quer eliminar: Fiuk, Nego Di ou Sarah?(n)</desc>
+  </programme>
+  <programme start="20210217024500 +0000" stop="20210217032000 +0000" channel="GLOBO MG FHD">
+    <title lang="pt">Todas As Mulheres Do Mundo</title>
+    <desc lang="pt">Paulo conhece a amante de Cândido e acaba se encantando à primeira vista pela mulher do cara.(n)</desc>
+  </programme>
+  <programme start="20210217032000 +0000" stop="20210217041000 +0000" channel="GLOBO MG FHD">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210217041000 +0000" stop="20210217045000 +0000" channel="GLOBO MG FHD">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Atriz fala sobre o passado ao revisitar momentos icônicos da carreira, sobre o presente ao abordar as dificuldades da pandemia e sobre as expectativas para o futuro.(n)</desc>
+  </programme>
+  <programme start="20210217045000 +0000" stop="20210217070000 +0000" channel="GLOBO MG FHD">
+    <title lang="pt">Corujão I - As Boas Maneiras</title>
+    <title lang="en">As Boas Maneiras</title>
+    <desc lang="pt">Ana contrata Clara, uma solitária enfermeira moradora da periferia de São Paulo, para ser babá de seu filho ainda não nascido. Conforme a gravidez vai avançando, Ana começa a apresentar comportamentos cada vez mais estranhos.(n)</desc>
+  </programme>
+  <programme start="20210217070000 +0000" stop="20210217090000 +0000" channel="GLOBO MG FHD">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210217090000 +0000" stop="20210217113000 +0000" channel="GLOBO MG FHD">
+    <title lang="pt">Bom Dia Minas</title>
+    <desc lang="pt">Liliana Junger apresenta as primeiras noticias da manhã em todo o estado.(n)</desc>
+  </programme>
+  <programme start="20210217113000 +0000" stop="20210217123000 +0000" channel="GLOBO MG FHD">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210217123000 +0000" stop="20210217134500 +0000" channel="GLOBO MG FHD">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210217134500 +0000" stop="20210217150000 +0000" channel="GLOBO MG FHD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210217150000 +0000" stop="20210217160000 +0000" channel="GLOBO MG FHD">
+    <title lang="pt">MG1</title>
+    <desc lang="pt">Aline Aguiar apresenta as noticias do dia e traz informações de serviço, saúde, cultura e cidadania.(n)</desc>
+  </programme>
+  <programme start="20210217160000 +0000" stop="20210217162500 +0000" channel="GLOBO MG FHD">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">Maurício Paulucci apresenta as notícias do esporte em Minas Gerais.(n)</desc>
+  </programme>
+  <programme start="20210217162500 +0000" stop="20210217180000 +0000" channel="GLOBO MG FHD">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210217180000 +0000" stop="20210217195000 +0000" channel="GLOBO MG FHD">
+    <title lang="pt">Sessão da Tarde - Alice Através do Espelho</title>
+    <title lang="en">Alice Through the Looking Glass</title>
+    <desc lang="pt">Alice retorna após uma longa viagem pelo mundo e reencontra a mãe. No casarão de uma grande festa, ela percebe a presença de um espelho mágico. A jovem atravessa o objeto e retorna ao País das Maravilhas, onde descobre que o Chapeleiro Maluco corre risco de morte, após fazer uma descoberta sobre seu passado. Para salvar o amigo, Alice deve conversar com o Tempo para voltar às vésperas de um evento traumático e mudar o destino do Chapeleiro. Nesta aventura, também descobre um trauma que separou as irmãs Rainha Branca e Rainha Vermelha.(n)</desc>
+  </programme>
+  <programme start="20210217195000 +0000" stop="20210217205500 +0000" channel="GLOBO MG FHD">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Sucesso de Manoel Carlos, 'Laços de Família' conduz uma crônica urbana que discute as relações humanas, especialmente entre pais e filhos, e é movida pelo amor incondicional de Helena pela filha Camila.(n)</desc>
+  </programme>
+  <programme start="20210217205500 +0000" stop="20210217212500 +0000" channel="GLOBO MG FHD">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20210217212500 +0000" stop="20210217221000 +0000" channel="GLOBO MG FHD">
+    <title lang="pt">Flor do Caribe</title>
+    <desc lang="pt">A história de uma mulher que será capaz de ultrapassar os obstáculos impostos pela vida para ficar com seu grande amor e um homem que desafia o destino em nome da justiça e em busca de seu amor interrompido.(n)</desc>
+  </programme>
+  <programme start="20210217221000 +0000" stop="20210217224000 +0000" channel="GLOBO MG FHD">
+    <title lang="pt">MG2</title>
+    <desc lang="pt">Segunda edição do jornal que apresenta as principais notícias de Minas Gerais.(n)</desc>
+  </programme>
+  <programme start="20210217224000 +0000" stop="20210217233000 +0000" channel="GLOBO MG FHD">
+    <title lang="pt">Haja Coração</title>
+    <desc lang="pt">De Daniel Ortiz, a novela faz uma releitura de Sassaricando. No universo vibrante de São Paulo, vai se desenrolar um enredo de muitas emoções, aventuras, amores, armações e diversão.(n)</desc>
+  </programme>
+  <programme start="20210217233000 +0000" stop="20210218004000 +0000" channel="GLOBO MG FHD">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210217004000 +0000" stop="20210217014500 +0000" channel="GLOBO MG HD">
+    <title lang="pt">A Força do Querer</title>
+    <desc lang="pt">Bibi e Rubinho são parados pela polícia durante fuga e Silvana é encurralada.(n)</desc>
+  </programme>
+  <programme start="20210217014500 +0000" stop="20210217024500 +0000" channel="GLOBO MG HD">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Quem você quer eliminar: Fiuk, Nego Di ou Sarah?(n)</desc>
+  </programme>
+  <programme start="20210217024500 +0000" stop="20210217032000 +0000" channel="GLOBO MG HD">
+    <title lang="pt">Todas As Mulheres Do Mundo</title>
+    <desc lang="pt">Paulo conhece a amante de Cândido e acaba se encantando à primeira vista pela mulher do cara.(n)</desc>
+  </programme>
+  <programme start="20210217032000 +0000" stop="20210217041000 +0000" channel="GLOBO MG HD">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210217041000 +0000" stop="20210217045000 +0000" channel="GLOBO MG HD">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Atriz fala sobre o passado ao revisitar momentos icônicos da carreira, sobre o presente ao abordar as dificuldades da pandemia e sobre as expectativas para o futuro.(n)</desc>
+  </programme>
+  <programme start="20210217045000 +0000" stop="20210217070000 +0000" channel="GLOBO MG HD">
+    <title lang="pt">Corujão I - As Boas Maneiras</title>
+    <title lang="en">As Boas Maneiras</title>
+    <desc lang="pt">Ana contrata Clara, uma solitária enfermeira moradora da periferia de São Paulo, para ser babá de seu filho ainda não nascido. Conforme a gravidez vai avançando, Ana começa a apresentar comportamentos cada vez mais estranhos.(n)</desc>
+  </programme>
+  <programme start="20210217070000 +0000" stop="20210217090000 +0000" channel="GLOBO MG HD">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210217090000 +0000" stop="20210217113000 +0000" channel="GLOBO MG HD">
+    <title lang="pt">Bom Dia Minas</title>
+    <desc lang="pt">Liliana Junger apresenta as primeiras noticias da manhã em todo o estado.(n)</desc>
+  </programme>
+  <programme start="20210217113000 +0000" stop="20210217123000 +0000" channel="GLOBO MG HD">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210217123000 +0000" stop="20210217134500 +0000" channel="GLOBO MG HD">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210217134500 +0000" stop="20210217150000 +0000" channel="GLOBO MG HD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210217150000 +0000" stop="20210217160000 +0000" channel="GLOBO MG HD">
+    <title lang="pt">MG1</title>
+    <desc lang="pt">Aline Aguiar apresenta as noticias do dia e traz informações de serviço, saúde, cultura e cidadania.(n)</desc>
+  </programme>
+  <programme start="20210217160000 +0000" stop="20210217162500 +0000" channel="GLOBO MG HD">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">Maurício Paulucci apresenta as notícias do esporte em Minas Gerais.(n)</desc>
+  </programme>
+  <programme start="20210217162500 +0000" stop="20210217180000 +0000" channel="GLOBO MG HD">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210217180000 +0000" stop="20210217195000 +0000" channel="GLOBO MG HD">
+    <title lang="pt">Sessão da Tarde - Alice Através do Espelho</title>
+    <title lang="en">Alice Through the Looking Glass</title>
+    <desc lang="pt">Alice retorna após uma longa viagem pelo mundo e reencontra a mãe. No casarão de uma grande festa, ela percebe a presença de um espelho mágico. A jovem atravessa o objeto e retorna ao País das Maravilhas, onde descobre que o Chapeleiro Maluco corre risco de morte, após fazer uma descoberta sobre seu passado. Para salvar o amigo, Alice deve conversar com o Tempo para voltar às vésperas de um evento traumático e mudar o destino do Chapeleiro. Nesta aventura, também descobre um trauma que separou as irmãs Rainha Branca e Rainha Vermelha.(n)</desc>
+  </programme>
+  <programme start="20210217195000 +0000" stop="20210217205500 +0000" channel="GLOBO MG HD">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Sucesso de Manoel Carlos, 'Laços de Família' conduz uma crônica urbana que discute as relações humanas, especialmente entre pais e filhos, e é movida pelo amor incondicional de Helena pela filha Camila.(n)</desc>
+  </programme>
+  <programme start="20210217205500 +0000" stop="20210217212500 +0000" channel="GLOBO MG HD">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20210217212500 +0000" stop="20210217221000 +0000" channel="GLOBO MG HD">
+    <title lang="pt">Flor do Caribe</title>
+    <desc lang="pt">A história de uma mulher que será capaz de ultrapassar os obstáculos impostos pela vida para ficar com seu grande amor e um homem que desafia o destino em nome da justiça e em busca de seu amor interrompido.(n)</desc>
+  </programme>
+  <programme start="20210217221000 +0000" stop="20210217224000 +0000" channel="GLOBO MG HD">
+    <title lang="pt">MG2</title>
+    <desc lang="pt">Segunda edição do jornal que apresenta as principais notícias de Minas Gerais.(n)</desc>
+  </programme>
+  <programme start="20210217224000 +0000" stop="20210217233000 +0000" channel="GLOBO MG HD">
+    <title lang="pt">Haja Coração</title>
+    <desc lang="pt">De Daniel Ortiz, a novela faz uma releitura de Sassaricando. No universo vibrante de São Paulo, vai se desenrolar um enredo de muitas emoções, aventuras, amores, armações e diversão.(n)</desc>
+  </programme>
+  <programme start="20210217233000 +0000" stop="20210218004000 +0000" channel="GLOBO MG HD">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210217004000 +0000" stop="20210217014500 +0000" channel="GLOBO NORDESTE FHD">
+    <title lang="pt">A Força do Querer</title>
+    <desc lang="pt">Bibi e Rubinho são parados pela polícia durante fuga e Silvana é encurralada.(n)</desc>
+  </programme>
+  <programme start="20210217014500 +0000" stop="20210217024500 +0000" channel="GLOBO NORDESTE FHD">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Quem você quer eliminar: Fiuk, Nego Di ou Sarah?(n)</desc>
+  </programme>
+  <programme start="20210217024500 +0000" stop="20210217032000 +0000" channel="GLOBO NORDESTE FHD">
+    <title lang="pt">Todas As Mulheres Do Mundo</title>
+    <desc lang="pt">Paulo conhece a amante de Cândido e acaba se encantando à primeira vista pela mulher do cara.(n)</desc>
+  </programme>
+  <programme start="20210217032000 +0000" stop="20210217041000 +0000" channel="GLOBO NORDESTE FHD">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210217041000 +0000" stop="20210217045000 +0000" channel="GLOBO NORDESTE FHD">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Atriz fala sobre o passado ao revisitar momentos icônicos da carreira, sobre o presente ao abordar as dificuldades da pandemia e sobre as expectativas para o futuro.(n)</desc>
+  </programme>
+  <programme start="20210217045000 +0000" stop="20210217070000 +0000" channel="GLOBO NORDESTE FHD">
+    <title lang="pt">Corujão I - As Boas Maneiras</title>
+    <title lang="en">As Boas Maneiras</title>
+    <desc lang="pt">Ana contrata Clara, uma solitária enfermeira moradora da periferia de São Paulo, para ser babá de seu filho ainda não nascido. Conforme a gravidez vai avançando, Ana começa a apresentar comportamentos cada vez mais estranhos.(n)</desc>
+  </programme>
+  <programme start="20210217070000 +0000" stop="20210217090000 +0000" channel="GLOBO NORDESTE FHD">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210217090000 +0000" stop="20210217113000 +0000" channel="GLOBO NORDESTE FHD">
+    <title lang="pt">Bom Dia Pernambuco</title>
+    <desc lang="pt">As notícias da manhã ao vivo: este é o Bom Dia Pernambuco. Os repórteres em cidades da Região Metropolitana do Recife, do Agreste e do Sertão trazem as informações que o telespectador precisa para o dia. Além de trânsito e tempo, o telejornal mostra empreendedores, gente que dá emprego, agências que precisam de trabalhadores. Os repórteres estão nas feiras e nos mercados ouvindo o povo e especialistas que dão dicas de como comprar bem e ter uma vida mais saudável. Todos os dias, as notícias do esporte em Pernambuco têm espaço garantido. De segunda a sexta, às 6h.(n)</desc>
+  </programme>
+  <programme start="20210217113000 +0000" stop="20210217123000 +0000" channel="GLOBO NORDESTE FHD">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210217123000 +0000" stop="20210217134500 +0000" channel="GLOBO NORDESTE FHD">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210217134500 +0000" stop="20210217150000 +0000" channel="GLOBO NORDESTE FHD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210217150000 +0000" stop="20210217160000 +0000" channel="GLOBO NORDESTE FHD">
+    <title lang="pt">NE1</title>
+    <desc lang="pt">O que aconteceu de mais importante na manhã está no NE1. Um bom tempo do telejornal é dedicado à vida das comunidades: a solução de problemas é cobrada no Calendário, as festas, os eventos e também quem quer ser famoso. No quadro "É Pipoco", novos talentos das comunidades podem mostrar o trabalho. Educação e saúde também fazem parte do conteúdo do telejornal. De segunda a sábado, ao meio-dia.(n)</desc>
+  </programme>
+  <programme start="20210217160000 +0000" stop="20210217162500 +0000" channel="GLOBO NORDESTE FHD">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O esporte que está no coração dos brasileiros é o motor do Globo Esporte, que traz notícias fresquinhas sobre o desempenho dos times pernambucanos, tanto no campeonato estadual quanto no Brasileirão. O vaivém de atletas, o sobe-e-desce na classificação, as loucuras dos torcedores para demonstrar o amor pelo clube... Tudo interessa à pauta do GE.(n)</desc>
+  </programme>
+  <programme start="20210217162500 +0000" stop="20210217180000 +0000" channel="GLOBO NORDESTE FHD">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210217180000 +0000" stop="20210217195000 +0000" channel="GLOBO NORDESTE FHD">
+    <title lang="pt">Sessão da Tarde - Alice Através do Espelho</title>
+    <title lang="en">Alice Through the Looking Glass</title>
+    <desc lang="pt">Alice retorna após uma longa viagem pelo mundo e reencontra a mãe. No casarão de uma grande festa, ela percebe a presença de um espelho mágico. A jovem atravessa o objeto e retorna ao País das Maravilhas, onde descobre que o Chapeleiro Maluco corre risco de morte, após fazer uma descoberta sobre seu passado. Para salvar o amigo, Alice deve conversar com o Tempo para voltar às vésperas de um evento traumático e mudar o destino do Chapeleiro. Nesta aventura, também descobre um trauma que separou as irmãs Rainha Branca e Rainha Vermelha.(n)</desc>
+  </programme>
+  <programme start="20210217195000 +0000" stop="20210217205500 +0000" channel="GLOBO NORDESTE FHD">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Sucesso de Manoel Carlos, 'Laços de Família' conduz uma crônica urbana que discute as relações humanas, especialmente entre pais e filhos, e é movida pelo amor incondicional de Helena pela filha Camila.(n)</desc>
+  </programme>
+  <programme start="20210217205500 +0000" stop="20210217212500 +0000" channel="GLOBO NORDESTE FHD">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20210217212500 +0000" stop="20210217221000 +0000" channel="GLOBO NORDESTE FHD">
+    <title lang="pt">Flor do Caribe</title>
+    <desc lang="pt">A história de uma mulher que será capaz de ultrapassar os obstáculos impostos pela vida para ficar com seu grande amor e um homem que desafia o destino em nome da justiça e em busca de seu amor interrompido.(n)</desc>
+  </programme>
+  <programme start="20210217221000 +0000" stop="20210217224000 +0000" channel="GLOBO NORDESTE FHD">
+    <title lang="pt">NE2</title>
+    <desc lang="pt">O NE2 traz o que foi notícia no dia em todo o estado. Economia, política e futebol numa linguagem simples para deixar todos bem informados. Ao vivo, os repórteres mostram os eventos da noite e o telespectador fica sabendo como está a volta para casa de ônibus, de carro ou de metrô. De segunda a sábado, após a Novela I.(n)</desc>
+  </programme>
+  <programme start="20210217224000 +0000" stop="20210217233000 +0000" channel="GLOBO NORDESTE FHD">
+    <title lang="pt">Haja Coração</title>
+    <desc lang="pt">De Daniel Ortiz, a novela faz uma releitura de Sassaricando. No universo vibrante de São Paulo, vai se desenrolar um enredo de muitas emoções, aventuras, amores, armações e diversão.(n)</desc>
+  </programme>
+  <programme start="20210217233000 +0000" stop="20210218004000 +0000" channel="GLOBO NORDESTE FHD">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20210217004000 +0000" stop="20210217014500 +0000" channel="GLOBO NORDESTE HD">
+    <title lang="pt">A Força do Querer</title>
+    <desc lang="pt">Bibi e Rubinho são parados pela polícia durante fuga e Silvana é encurralada.(n)</desc>
+  </programme>
+  <programme start="20210217014500 +0000" stop="20210217024500 +0000" channel="GLOBO NORDESTE HD">
+    <title lang="pt">Big Brother Brasil 21</title>
+    <desc lang="pt">Quem você quer eliminar: Fiuk, Nego Di ou Sarah?(n)</desc>
+  </programme>
+  <programme start="20210217024500 +0000" stop="20210217032000 +0000" channel="GLOBO NORDESTE HD">
+    <title lang="pt">Todas As Mulheres Do Mundo</title>
+    <desc lang="pt">Paulo conhece a amante de Cândido e acaba se encantando à primeira vista pela mulher do cara.(n)</desc>
+  </programme>
+  <programme start="20210217032000 +0000" stop="20210217041000 +0000" channel="GLOBO NORDESTE HD">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20210217041000 +0000" stop="20210217045000 +0000" channel="GLOBO NORDESTE HD">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Atriz fala sobre o passado ao revisitar momentos icônicos da carreira, sobre o presente ao abordar as dificuldades da pandemia e sobre as expectativas para o futuro.(n)</desc>
+  </programme>
+  <programme start="20210217045000 +0000" stop="20210217070000 +0000" channel="GLOBO NORDESTE HD">
+    <title lang="pt">Corujão I - As Boas Maneiras</title>
+    <title lang="en">As Boas Maneiras</title>
+    <desc lang="pt">Ana contrata Clara, uma solitária enfermeira moradora da periferia de São Paulo, para ser babá de seu filho ainda não nascido. Conforme a gravidez vai avançando, Ana começa a apresentar comportamentos cada vez mais estranhos.(n)</desc>
+  </programme>
+  <programme start="20210217070000 +0000" stop="20210217090000 +0000" channel="GLOBO NORDESTE HD">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20210217090000 +0000" stop="20210217113000 +0000" channel="GLOBO NORDESTE HD">
+    <title lang="pt">Bom Dia Pernambuco</title>
+    <desc lang="pt">As notícias da manhã ao vivo: este é o Bom Dia Pernambuco. Os repórteres em cidades da Região Metropolitana do Recife, do Agreste e do Sertão trazem as informações que o telespectador precisa para o dia. Além de trânsito e tempo, o telejornal mostra empreendedores, gente que dá emprego, agências que precisam de trabalhadores. Os repórteres estão nas feiras e nos mercados ouvindo o povo e especialistas que dão dicas de como comprar bem e ter uma vida mais saudável. Todos os dias, as notícias do esporte em Pernambuco têm espaço garantido. De segunda a sexta, às 6h.(n)</desc>
+  </programme>
+  <programme start="20210217113000 +0000" stop="20210217123000 +0000" channel="GLOBO NORDESTE HD">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20210217123000 +0000" stop="20210217134500 +0000" channel="GLOBO NORDESTE HD">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20210217134500 +0000" stop="20210217150000 +0000" channel="GLOBO NORDESTE HD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20210217150000 +0000" stop="20210217160000 +0000" channel="GLOBO NORDESTE HD">
+    <title lang="pt">NE1</title>
+    <desc lang="pt">O que aconteceu de mais importante na manhã está no NE1. Um bom tempo do telejornal é dedicado à vida das comunidades: a solução de problemas é cobrada no Calendário, as festas, os eventos e também quem quer ser famoso. No quadro "É Pipoco", novos talentos das comunidades podem mostrar o trabalho. Educação e saúde também fazem parte do conteúdo do telejornal. De segunda a sábado, ao meio-dia.(n)</desc>
+  </programme>
+  <programme start="20210217160000 +0000" stop="20210217162500 +0000" channel="GLOBO NORDESTE HD">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O esporte que está no coração dos brasileiros é o motor do Globo Esporte, que traz notícias fresquinhas sobre o desempenho dos times pernambucanos, tanto no campeonato estadual quanto no Brasileirão. O vaivém de atletas, o sobe-e-desce na classificação, as loucuras dos torcedores para demonstrar o amor pelo clube... Tudo interessa à pauta do GE.(n)</desc>
+  </programme>
+  <programme start="20210217162500 +0000" stop="20210217180000 +0000" channel="GLOBO NORDESTE HD">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+  </programme>
+  <programme start="20210217180000 +0000" stop="20210217195000 +0000" channel="GLOBO NORDESTE HD">
+    <title lang="pt">Sessão da Tarde - Alice Através do Espelho</title>
+    <title lang="en">Alice Through the Looking Glass</title>
+    <desc lang="pt">Alice retorna após uma longa viagem pelo mundo e reencontra a mãe. No casarão de uma grande festa, ela percebe a presença de um espelho mágico. A jovem atravessa o objeto e retorna ao País das Maravilhas, onde descobre que o Chapeleiro Maluco corre risco de morte, após fazer uma descoberta sobre seu passado. Para salvar o amigo, Alice deve conversar com o Tempo para voltar às vésperas de um evento traumático e mudar o destino do Chapeleiro. Nesta aventura, também descobre um trauma que separou as irmãs Rainha Branca e Rainha Vermelha.(n)</desc>
+  </programme>
+  <programme start="20210217195000 +0000" stop="20210217205500 +0000" channel="GLOBO NORDESTE HD">
+    <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
+    <desc lang="pt">Sucesso de Manoel Carlos, 'Laços de Família' conduz uma crônica urbana que discute as relações humanas, especialmente entre pais e filhos, e é movida pelo amor incondicional de Helena pela filha Camila.(n)</desc>
+  </programme>
+  <programme start="20210217205500 +0000" stop="20210217212500 +0000" channel="GLOBO NORDESTE HD">
+    <title lang="pt">Malhação - Sonhos</title>
+    <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
+  </programme>
+  <programme start="20210217212500 +0000" stop="20210217221000 +0000" channel="GLOBO NORDESTE HD">
+    <title lang="pt">Flor do Caribe</title>
+    <desc lang="pt">A história de uma mulher que será capaz de ultrapassar os obstáculos impostos pela vida para ficar com seu grande amor e um homem que desafia o destino em nome da justiça e em busca de seu amor interrompido.(n)</desc>
+  </programme>
+  <programme start="20210217221000 +0000" stop="20210217224000 +0000" channel="GLOBO NORDESTE HD">
+    <title lang="pt">NE2</title>
+    <desc lang="pt">O NE2 traz o que foi notícia no dia em todo o estado. Economia, política e futebol numa linguagem simples para deixar todos bem informados. Ao vivo, os repórteres mostram os eventos da noite e o telespectador fica sabendo como está a volta para casa de ônibus, de carro ou de metrô. De segunda a sábado, após a Novela I.(n)</desc>
+  </programme>
+  <programme start="20210217224000 +0000" stop="20210217233000 +0000" channel="GLOBO NORDESTE HD">
+    <title lang="pt">Haja Coração</title>
+    <desc lang="pt">De Daniel Ortiz, a novela faz uma releitura de Sassaricando. No universo vibrante de São Paulo, vai se desenrolar um enredo de muitas emoções, aventuras, amores, armações e diversão.(n)</desc>
+  </programme>
+  <programme start="20210217233000 +0000" stop="20210218004000 +0000" channel="GLOBO NORDESTE HD">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+</tv>
